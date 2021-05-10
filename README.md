@@ -6,7 +6,7 @@ Guillermo del Valle Reboul
 
 The goal of the agent is to collect a client at point A and then move to point B while avoiding obstacles.
 
-Unity brain name: BananaBrain
+OpenAI Gym: Taxi v2
 Vector Observation space type: discrete
 Vector Action space type: discrete
 Vector Action space size (per agent): 6 (up, down, right, left, pick client, drop client)
