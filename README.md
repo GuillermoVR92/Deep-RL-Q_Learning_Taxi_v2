@@ -13,8 +13,8 @@ Vector Action space size (per agent): 6 (up, down, right, left, pick client, dro
 Vector Action descriptions: , , ,
 
 
-state vector = discrete values, grid
-actions = 4 discrete actions (forward, backward, turn left, turn right)
+state vector = grid
+actions = 6 discrete actions (up, down, right, left, pick client, drop client)
 The environment is considered solved when agents reaches average score of 9.7.
 
 ## Algorithm Used: Q Learning (RL)
